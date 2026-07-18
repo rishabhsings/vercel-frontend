@@ -1,0 +1,154 @@
+{
+  "users": [
+    {
+      "_id": "usr_mmtfrsz8c",
+      "username": "nnnn",
+      "password": "$2a$10$SyI5LM6YsS4kzRUCAa4G6O3Wfn2QkTMHgy0laysMGpfZjtpywzN7C",
+      "vocalProfile": {
+        "voiceType": "Undetermined",
+        "minFrequency": 0,
+        "maxFrequency": 0,
+        "highestNote": "",
+        "lowestNote": ""
+      },
+      "stats": {
+        "xp": 0,
+        "streakDays": 0,
+        "lastActive": "2026-07-08T08:01:56.902Z"
+      },
+      "createdAt": "2026-07-08T08:01:56.902Z",
+      "updatedAt": "2026-07-08T08:01:56.902Z"
+    }
+  ],
+  "lessons": [
+    {
+      "_id": "les_rvlp3cll2",
+      "title": "Swar 'Sa' - The Foundation",
+      "description": "Learn to sing the fundamental base note 'Sa' (C4) steady and strong. The foundation of Hindustani and Western music.",
+      "category": "Pitch Matching",
+      "targetNotes": [
+        {
+          "note": "C4",
+          "frequency": 261.63,
+          "durationSec": 3
+        }
+      ],
+      "xpReward": 100,
+      "difficulty": "Beginner",
+      "createdAt": "2026-07-08T07:54:06.526Z",
+      "updatedAt": "2026-07-08T07:54:06.529Z"
+    },
+    {
+      "_id": "les_cj0x1cs3h",
+      "title": "Swar 'Re' - Climbing Up",
+      "description": "Ascend to the second note 'Re' (D4). Focus on moving smoothly and holding the pitch steady.",
+      "category": "Pitch Matching",
+      "targetNotes": [
+        {
+          "note": "D4",
+          "frequency": 293.66,
+          "durationSec": 3
+        }
+      ],
+      "xpReward": 120,
+      "difficulty": "Beginner",
+      "createdAt": "2026-07-08T07:54:06.529Z",
+      "updatedAt": "2026-07-08T07:54:06.529Z"
+    },
+    {
+      "_id": "les_dmw3clh3i",
+      "title": "Swar 'Ga' - The Third Step",
+      "description": "Train your voice to hit the bright 'Ga' (E4) pitch. Keep your chest relaxed and throat open.",
+      "category": "Pitch Matching",
+      "targetNotes": [
+        {
+          "note": "E4",
+          "frequency": 329.63,
+          "durationSec": 3
+        }
+      ],
+      "xpReward": 130,
+      "difficulty": "Beginner",
+      "createdAt": "2026-07-08T07:54:06.529Z",
+      "updatedAt": "2026-07-08T07:54:06.529Z"
+    },
+    {
+      "_id": "les_85m0s3r5t",
+      "title": "Sargam Warmup: Sa-Re-Ga",
+      "description": "A continuous transition warmup exercise. Sing C4, transition to D4, and end on E4, holding each for 2 seconds.",
+      "category": "Vocal Warmup",
+      "targetNotes": [
+        {
+          "note": "C4",
+          "frequency": 261.63,
+          "durationSec": 2
+        },
+        {
+          "note": "D4",
+          "frequency": 293.66,
+          "durationSec": 2
+        },
+        {
+          "note": "E4",
+          "frequency": 329.63,
+          "durationSec": 2
+        }
+      ],
+      "xpReward": 200,
+      "difficulty": "Intermediate",
+      "createdAt": "2026-07-08T07:54:06.529Z",
+      "updatedAt": "2026-07-08T07:54:06.529Z"
+    },
+    {
+      "_id": "les_tz0cxg0qd",
+      "title": "Steady 'Pa' - The Anchor",
+      "description": "Align your posture and sing the stable dominant fifth note 'Pa' (G4). Essential for building vocal strength.",
+      "category": "Pitch Matching",
+      "targetNotes": [
+        {
+          "note": "G4",
+          "frequency": 392,
+          "durationSec": 4
+        }
+      ],
+      "xpReward": 150,
+      "difficulty": "Intermediate",
+      "createdAt": "2026-07-08T07:54:06.529Z",
+      "updatedAt": "2026-07-08T07:54:06.529Z"
+    },
+    {
+      "_id": "les_20nxsk9l9",
+      "title": "Deep Hum Warmup",
+      "description": "A resonant chest hum at a lower pitch 'G3' (196.00 Hz) to warm up the vocal cords and stimulate resonance.",
+      "category": "Vocal Warmup",
+      "targetNotes": [
+        {
+          "note": "G3",
+          "frequency": 196,
+          "durationSec": 4
+        }
+      ],
+      "xpReward": 100,
+      "difficulty": "Beginner",
+      "createdAt": "2026-07-08T07:54:06.529Z",
+      "updatedAt": "2026-07-08T07:54:06.529Z"
+    },
+    {
+      "_id": "les_dmv1ur3ap",
+      "title": "Swar 'Ma' - The Half Step",
+      "description": "Perfect the semitone interval from 'Ga' to 'Ma' (F4) at 349.23 Hz.",
+      "category": "Pitch Matching",
+      "targetNotes": [
+        {
+          "note": "F4",
+          "frequency": 349.23,
+          "durationSec": 3
+        }
+      ],
+      "xpReward": 140,
+      "difficulty": "Beginner",
+      "createdAt": "2026-07-08T07:54:06.529Z",
+      "updatedAt": "2026-07-08T07:54:06.529Z"
+    }
+  ]
+}
